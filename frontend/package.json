@@ -1,7 +1,7 @@
 {
   "homepage": "http://zamula-soft.github.io/pizza-service-project-frontend",
   "name": "pizza-service-project-frontend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@emotion/react": "*",
